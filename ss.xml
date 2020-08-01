@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Macro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Macro 3</Name>
+  <Guid>bba61522-4a7c-4003-9ded-82f122019cbb</Guid>
+  <MacroEvents>
+    <MacroEvent>
+      <Type>1</Type>
+      <KeyEvent>
+        <Makecode>31</Makecode>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>95</Delay>
+      <KeyEvent>
+        <Makecode>31</Makecode>
+        <State>1</State>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>111</Delay>
+      <KeyEvent>
+        <Makecode>31</Makecode>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>87</Delay>
+      <KeyEvent>
+        <Makecode>31</Makecode>
+        <State>1</State>
+      </KeyEvent>
+    </MacroEvent>
+  </MacroEvents>
+</Macro>
